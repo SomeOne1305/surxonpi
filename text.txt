@@ -1,0 +1,80 @@
+let data = `{
+        "first_name": "${e.target[0].value}",
+        "last_name": "${e.target[1].value}",
+        "phone_number": "${e.target[3].value}",
+        "email": "${e.target[2].value}",
+        "message": "${e.target[4].value}",
+      }`
+      console.log(data);
+      await axios
+        .post(
+          "https://api-surxon.surxonpi.uz/api/v1/applications/?format=json",
+          {
+            headers:{
+              ContentType:"application/json"
+            }
+          },
+          data
+        )
+        .then((res) => console.log(res.status))
+        .then(() => setOpen(false))
+        console.log(data);
+
+
+
+
+const data = {
+        first_name: e.target[0].value,
+        last_name: e.target[1].value,
+        phone_number: e.target[3].value,
+        email: e.target[2].value,
+        message: e.target[4].value,
+      };
+
+      try {
+        const response = await axios.post(
+          "https://api-surxon.surxonpi.uz/api/v1/applications/?format=json",
+          data,
+          {
+            headers: {
+              "Content-Type": "application/json",
+            },
+          }
+        );
+        console.log(response.data);
+      } catch (error) {
+        console.error(error);
+      }
+
+
+      let data = `{
+        "first_name": "${e.target[0].value}",
+        "last_name": "${e.target[1].value}",
+        "phone_number": "${e.target[3].value}",
+        "email": "${e.target[2].value}",
+        "message": "${e.target[4].value}"
+      }`
+      let url = "https://api-surxon.surxonpi.uz/api/v1/applications/?format=json";
+
+      let xhr = new XMLHttpRequest();
+      xhr.open("POST", url);
+
+      xhr.setRequestHeader("Content-Type", "application/json");
+
+      xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4) {
+          console.log(xhr.status);
+          console.log(xhr.responseText);
+        }
+      };
+
+
+      xhr.send(data);
+
+
+
+
+                status: "success",
+          title: "Muvaffaqiyatli",
+          text: "Muvaffaqatli jo'natildi.",
+          effect: "fade",

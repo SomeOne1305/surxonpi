@@ -1,0 +1,359 @@
+{
+  "docs": {
+    "certificates": {
+      "title": "Sertifikat va litsenziyalar",
+      "files": [
+        {
+          "fileName": "Sertifikat",
+          "fileUrl": "../../docs/1-about/certificates-licences/sertifikat-сертификат.jpg"
+        }
+      ]
+    },
+    "comp-pass": {
+      "title": "Korxona passporti",
+      "files": [
+        {
+          "fileName": "Korxona passporti",
+          "fileUrl": "../../docs/1-about/comp-passport/презентация2018-2021y.pptx"
+        }
+      ]
+    },
+    "comp-progress": {
+      "title": "Jamiyat faoliyati",
+      "files": [
+        {
+          "fileName": "Jamiyat faoliyati",
+          "fileUrl": "../../docs/1-about/comp-progress/jamiyat-faoliyati-жамият-фаолияти.pdf"
+        }
+      ]
+    },
+    "government": {
+      "title": "Rahbariyat",
+      "files": [
+        {
+          "fileName": "Rahbariyat",
+          "fileUrl": "../../docs/1-about/government/rahbariyat.pdf"
+        }
+      ]
+    },
+    "history": {
+      "title": "",
+      "files": [
+        {
+          "fileName": "Tarix",
+          "fileUrl": "../../docs/1-about/history/тарих.pdf"
+        },
+        {
+          "fileName": "Surxon PI AJ tarixi haqida video ssilkasi",
+          "fileUrl": "../../docs/1-about/history/Surxon-PI-AJ-TARIXI-XAQIDA-VIDEO-SSILKASI-YUTUBDA.docx"
+        }
+      ]
+    },
+    "needed-docs": {
+      "title": "",
+      "files": [
+        {
+          "fileName": "444-II 13.12.2002",
+          "fileUrl": "../../docs/1-about/needed-docs/444-II-13.12.2002.doc"
+        },
+        {
+          "fileName": "O'RQ-370 06.05.2014",
+          "fileUrl": "../../docs/1-about/needed-docs/O'RQ-370-06.05.2014.doc"
+        },
+        {
+          "fileName": "ПҚ-3107 30.06.2017",
+          "fileUrl": "../../docs/1-about/needed-docs/ПҚ-3107-30.06.2017.doc"
+        },
+        {
+          "fileName": "ПФ-2598 28.04.2000.doc",
+          "fileUrl": "../../docs/1-about/needed-docs/ПФ-2598-28.04.2000.doc"
+        },
+        {
+          "fileName": "TB bo'yicha qaror bosimda ishlash bo'yicha",
+          "fileUrl": "../../docs/1-about/needed-docs/ТБ-буйича-карор-босимда-ишлаш-буйича.pdf"
+        },
+        {
+          "fileName": "Xavfli ishlab chiqarish obyektlarining sanoat xavfsizligi to'grisidagi O'ZBRES qonunini amalga oshirishga doir qo'shimcha chora tadbirlar haqida",
+          "fileUrl": "../../docs/1-about/needed-docs/ХАВФЛИ-ИШЛАБ-ЧИҚАРИШ-ОБЪЕКТЛАРИНИНГ-САНОАТ-ХАВФСИЗЛИГИТЎҒРИСИДАГИ-ЎЗБРЕС-ҚОНУНИНИ-АМАЛГА-ОШИРИШГА-ДОИРҚЎШИМЧА-ЧОРА-ТАДБИРЛАР-ҲАҚИДА.pdf"
+        }
+      ]
+    },
+    "vacancies": {
+      "title": "Bo'sh ish o'rinlari",
+      "files": [
+        {
+          "fileName": "Vakant bo'sh ish o'rinlari",
+          "fileUrl": "../../docs/1-about/vacancy/vacansies.pdf"
+        }
+      ]
+    },
+    "work-schedule": {
+      "title": "Ish grafigi",
+      "files": [
+        {
+          "fileName": "Ish grafigi",
+          "fileUrl": "../../docs/1-about/work-schedule/Иш-графиги-ish-grafigi.pdf"
+        }
+      ]
+    },
+    "contacts": {
+      "title": "Aloqalar",
+      "files": [
+        {
+          "fileName": "Aloqalari kontakti",
+          "fileUrl": "../../docs/2-services/1.алокалар/алокалар-kontakti.docx"
+        },
+        {
+          "fileName": "Aloqalari kontakti",
+          "fileUrl": "../../docs/2-services/1.алокалар/алокалар-kontakti.pdf"
+        }
+      ]
+    },
+    "phone-numb": {
+      "title": "Ishonch telefonlari",
+      "files": [
+        {
+          "fileName": "Ishonch telefonlari",
+          "fileUrl": "../../docs/2-services/2.Ишонч-телефонлари/Ишонч-телефонлари.pdf"
+        }
+      ]
+    },
+    "goods-in-trade": {
+      "title": "Sotuvdagi tovarlar",
+      "files": [
+        {
+          "fileName": "Sotuvdagi tovarlar",
+          "fileUrl": "../../docs/3-manufacturing/good-in-trade/сотувдаги-товарлар.pdf"
+        }
+      ]
+    },
+    "main-indexes": {
+      "title": "",
+      "files": [
+        {
+          "fileName": "",
+          "fileUrl": "../../docs/3-manufacturing/main-indexes/асосий-кўрсаткичлар.pdf"
+        }
+      ]
+    },
+    "property-in-trade": {
+      "title": "Sotuvdagi mulklar",
+      "files": [
+        {
+          "fileName": "Sotuvdagi mulklar",
+          "fileUrl": "../../docs/3-manufacturing/property-in-trade/сотувдаги-мулклар.pdf"
+        }
+      ]
+    },
+    "public-events": {
+      "title": "Ommaviy darslar",
+      "files": [
+        {
+          "fileName": "Ommaviy tadbirlar",
+          "fileUrl": "../../docs/3-manufacturing/public-events/оммавий-тадбирлар.pdf"
+        }
+      ]
+    },
+    "technologic-progress": {
+      "title": "Texnologik jarayon",
+      "files": [
+        {
+          "fileName": "Foto uralmash 3D sxema",
+          "fileUrl": "../../docs/3-manufacturing/technologik-progress/фото-уралмаш-3д-схема.jpg"
+        }
+      ]
+    },
+    "tenders": {
+      "title": "Ochiq tanlovlar tenderlar va kim oshdi savdolari",
+      "files": [
+        {
+          "fileName": "Tender va kim oshdi savdolari",
+          "fileUrl": "../../docs/3-manufacturing/tenders/тендер-ва-ким-ошди-савдолари.pdf"
+        }
+      ]
+    },
+    "executive-body":{
+      "title":"Ijroiya organi",
+      "files":[
+        {
+          "fileName":"Ijroiya organi",
+          "fileUrl":"../../docs/korporativ-boshqaruv/1.Бошқарув,-коллегиал-ва-маслаҳат-органлари/Ижроия-органи/ижроия-органи.pdf"
+        }
+      ]
+    },
+    "internal-audit":{
+      "title":"Ichki audit xizmati",
+      "files":[
+        {
+          "fileName":"",
+          "fileUrl":"../../docs/korporativ-boshqaruv/1.Бошқарув,-коллегиал-ва-маслаҳат-органлари/Ички-аудит-хизмати/ички-аудит.pdf"
+        }
+      ]
+    },
+    "supervisory-board":{
+      "title":"Kuzatuv kengashi",
+      "files":[
+        {
+          "fileName":"Kuzatuv kengashi",
+          "fileUrl":"../../docs/korporativ-boshqaruv/1.Бошқарув,-коллегиал-ва-маслаҳат-органлари/Кузатув-Кенгаши/кузатув-кенгаши.pdf"
+        }
+      ]
+    },
+    "minority-shareholders-committee":{
+      "title":"Minoritar aksiyadorlar qo'mitasi",
+      "files":[
+        {
+          "fileName":"Minoritar aksiyadorlar qo'mitasi mavjud emas",
+          "fileUrl":"../../docs/korporativ-boshqaruv/1.Бошқарув,-коллегиал-ва-маслаҳат-органлари/Миноритар-акциядорлар-қўмитаси/Миноритар-акциядорлар-қўмитаси-мавжуд-эмас.pdf"
+        }
+      ]
+    },
+    "audit-commission":{
+      "title":"",
+      "files":[
+        {
+          "fileName":"",
+          "fileUrl":"../../docs/korporativ-boshqaruv/1.Бошқарув,-коллегиал-ва-маслаҳат-органлари/Тафтиш-комиссияси/тафтиш-комиссияси.pdf"
+        }
+      ]
+    },
+    "audit-report":{
+      "title":"Auditorlik xulosasi",
+      "files":[
+        {
+          "fileName":"Audit xulosasi 2019",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Аудиторлик-хулосаси/Аудит-хулосаси-2019.pdf"
+        },
+        {
+          "fileName":"Audit xulosasi 2020",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Аудиторлик-хулосаси/Аудит-хулосаси-2020.pdf"
+        },
+        {
+          "fileName":"Audit xulosasi 2021",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Аудиторлик-хулосаси/Аудит-хулосаси-2021.pdf"
+        }
+      ]
+    },
+    "list-of-affiliated-person":{
+      "title":"Afillangan shaxslar ro'yxati",
+      "files":[
+        {
+          "fileName":"Afillangan shaxslar",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Афилланган-шахслар-рўйхати/АФИЛЛАНГАН-ШАХСЛАР.pdf"
+        }
+      ]
+    },
+    "business-plan-of-the-society":{
+      "title":"",
+      "files":[
+        {
+          "fileName":"Biznes reja 2014",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2014.pdf"
+        },
+        {
+          "fileName":"Biznes reja 2015",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2015.pdf"
+        },
+        {
+          "fileName":"Biznes reja 2016",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2016.pdf"
+        },
+        {
+          "fileName":"Biznes reja 2017",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2017.pdf"
+        },
+        {
+          "fileName":"Biznes reja 2018",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2018.pdf"
+        },
+        {
+          "fileName":"Biznes reja 2019",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2019.pdf"
+        },
+        {
+          "fileName":"Biznes reja 2020",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2020.pdf"
+        },
+        {
+          "fileName":"Biznes reja 2021",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2021.pdf"
+        },
+        {
+          "fileName":"Biznes reja 2022",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2022.pdf"
+        }
+      ]
+    },
+    "development-strategy-of-society":{
+      "title":"Jamiyatning rivojlantirish strategiyasi",
+      "files":[
+        {
+          "fileName":"Rivojlanish strategiyasi",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-ривожлантириш-стратегияси/ривожланиш-стратегияси.pdf"
+        }
+      ]
+    },
+    "structure":{
+      "title":"Jamiyatning tashkiliy tuzilmasi struktura",
+      "files":[
+        {
+          "fileName":"Struktura 2019",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/жамиятнинг-ташкилий-тузилмаси-структура/struktura_2019-структура.jpg"
+        }
+      ]
+    },
+    "financial-statements":{
+      "title":"Moliyaviy hisobotlar",
+      "files":[
+        {
+          "fileName":"",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2016.pdf"
+        },
+        {
+          "fileName":"",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2017.pdf"
+        },
+        {
+          "fileName":"",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2018.pdf"
+        },
+        {
+          "fileName":"",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2019-й-1-кв.pdf"
+        },
+        {
+          "fileName":"",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2019-й-2-кв.pdf"
+        },
+        {
+          "fileName":"",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2019-й-3-кв.pdf"
+        },
+        {
+          "fileName":"",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2020.pdf"
+        },
+        {
+          "fileName":"",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2021-й-3-кв.pdf"
+        },
+        {
+          "fileName":"",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2021.pdf"
+        },
+        {
+          "fileName":"",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2022-й-1-кв.pdf"
+        },
+        {
+          "fileName":"",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2022-й-2-кв.pdf"
+        },
+        {
+          "fileName":"",
+          "fileUrl":"../../docs/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2022-й-3-кв.pdf"
+        }
+      ]
+    }
+  }
+}

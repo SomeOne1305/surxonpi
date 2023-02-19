@@ -1,0 +1,1 @@
+top_js="1.1";top_r+="&j="+(navigator.javaEnabled()?"Y":"N")

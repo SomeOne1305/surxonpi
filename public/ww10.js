@@ -1,0 +1,1 @@
+top_js = "1.0"; top_r = "id=35620&r=" + escape(document.referrer) + "&pg=" + escape(window.location.href); document.cookie = "smart_top=1; path=/"; top_r += "&c=" + (document.cookie ? "Y" : "N")

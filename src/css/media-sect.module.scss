@@ -1,0 +1,226 @@
+.media_section{
+    width: 100%;
+    height: auto;
+    background-image: url(../images/bg.jpg); //https://wallpapercave.com/wp/wp7902094.jpg
+    background-size: 100vw 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+}
+@mixin center(){
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+i{
+    font-family: FontAwesome !important;
+}
+
+.medias_block{
+    width: 100%;
+    padding: 10px;
+}
+
+.media_section_title{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #2B3A55;
+    color: #fff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.media_section_title h3{
+    font-size: 17px;
+}
+
+.second{
+    padding: 0 5px;
+}
+
+.second > i{
+    margin-right: 10px;
+    font-size: 17px;
+}
+
+.second a{
+    color: #fff;
+}
+
+.medias{
+    width: 100%;
+    padding: 10px 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-evenly;
+    column-gap: 5px;
+    row-gap: 10px;
+
+}
+
+.medias .media_section_img{
+    max-height: 300px;
+    cursor: pointer;
+}
+
+.media_section_img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.video{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    height: 600px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.331);
+    backdrop-filter: blur(5px);
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+.play_btn{
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    backdrop-filter: blur(4px);
+    background-color: rgba(0, 0, 0, 0.353);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index:1;
+    transition: 0.3s ease-in-out;
+    @include center()
+}
+.video:hover .play_btn{
+    opacity: 1;
+}
+.play{
+    width: 45px;
+    height: 45px;
+    font-size: 25px;
+    border-radius: 100%;
+    color: #2B3A55;
+    background-color: #fff;
+    @include center()
+}
+
+.modal_window{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.684);
+    backdrop-filter: blur(5px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.1s linear;
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    .container{
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .image{
+            width: 100%;
+            height: 60vh;
+
+            img{
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+        }
+    }
+    .quit{
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 50px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 1rem;
+        font-size: 35px;
+        color: #c0bfbf;
+        cursor: pointer;
+    }
+    .quit:hover{
+        background-color: #ffffff40;
+        color: #fff;
+    }
+}
+
+
+@media (max-width:1200px){
+    .container{
+        width:100%;
+    }
+}
+
+@media (max-width:1024px){
+    .video{
+        height: auto;
+    }
+    .media_section_img{
+        height: auto !important;
+    }
+    .quit{
+        font-size: 32px;
+    }
+}
+@media (max-width:992px){
+    .quit{
+        width: 40px;
+        height: 40px;
+        font-size: 30px !important;
+        margin: 10px;
+    }
+}
+@media (max-width:768px){
+    .quit{
+        width: 30px;
+        height: 30px;
+        font-size: 26px !important;
+        margin: 0 !important;
+    }
+}
+@media (max-width:576px){
+    .medias{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 10px;
+    }
+    .video{
+        grid-column: 100%;
+    }
+    .modal_window > video{
+        width: 100%;
+    }
+    .modal_window > .container{
+        padding: 0 !important;
+    }
+    .image{
+        margin: 5px !important;
+    }
+}
+@media (max-width:360px) {
+    .image{
+        margin: 0 !important;
+    }
+    .modal_window{
+        background-color: rgba(0, 0, 0, 0.871);
+    }
+}

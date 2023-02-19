@@ -1,0 +1,239 @@
+{
+    "menu": [
+        {
+            "uz": [
+                {
+                    "id": 1,
+                    "main": "Jamiyat to'g'risida",
+                    "routes": [
+                        {
+                            "link": "Biz haqimizda"
+                        },
+                        {
+                            "link": "Jamiyat rahbariyati"
+                        },
+                        {
+                            "link": "Jamiyat faoliyatining predmeti va maqsadlari"
+                        },
+                        {
+                            "link": "Jamiyatning ustavi"
+                        },
+                        {
+                            "link": "Jamiyatni rivojlantirish strategiyasi"
+                        },
+                        {
+                            "link": "Jamiyatning tashkiliy tuzilmasi",
+                            "inner_routes": [
+                                {
+                                    "inner_link": "Tashkiliy tuzilma"
+                                },
+                                {
+                                    "inner_link": "Tarkibiy bo'linmalari"
+                                },
+                                {
+                                    "inner_link": "Sho'ba xo'jalik jamiyatlari"
+                                }
+                            ]
+                        },
+                        {
+                            "link": "Jamiyat kollegial va maslaxat organlari (komissiyalar, kengashlar, qo'mitalar)",
+                            "inner_routes": [
+                                {
+                                    "inner_link": "Kuzatuv kengashi"
+                                },
+                                {
+                                    "inner_link": "Taftish komissiyasi"
+                                },
+                                {
+                                    "inner_link": "Sanoq komissiyasi"
+                                },
+                                {
+                                    "inner_link": "Minoritar aksiyadorlar qo'mitasi"
+                                }
+                            ]
+                        },
+                        {
+                            "link": "Affillangan shaxslar ro'yxati"
+                        },
+                        {
+                            "link": "Bo'sh ish o'rinlari",
+                            "inner_routes": [
+                                {
+                                    "inner_link": "Bo'sh ish o'rinlari"
+                                },
+                                {
+                                    "inner_link": "Ishga qabul qilish shartlari"
+                                },
+                                {
+                                    "inner_link": "Nomzodlarga qo'yiladigan talablar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "main": "Korporativ boshqaruv",
+                    "routes": [
+                        {
+                            "link": "Jamiyatning ichki hujjatlari",
+                            "inner_routes": [
+                                {
+                                    "inner_link": "Korporativ boshqaruv Kodeksi"
+                                },
+                                {
+                                    "inner_link": "Aksiyadorlarning umumiy yig'ilishi nizomi"
+                                },
+                                {
+                                    "inner_link": "Kuzatuv kengashi nizomi"
+                                },
+                                {
+                                    "inner_link": "Taftish komissiyasi nizomi"
+                                },
+                                {
+                                    "inner_link": "Ijroiya organi nizomi"
+                                },
+                                {
+                                    "inner_link": "Manfaatlar qarama-qarshiligi vaqtida harakat qilish tartibi nizomi"
+                                },
+                                {
+                                    "inner_link": "Ichki nazorat nizomi"
+                                },
+                                {
+                                    "inner_link": "Axborot siyosati nizomi"
+                                },
+                                {
+                                    "inner_link": "Dividend siyosati nizomi"
+                                },
+                                {
+                                    "inner_link": "Boshqaruv va nazorat organlarini rag'batlantirish nizomi"
+                                }
+                            ]
+                        },
+                        {
+                            "link": "Emissiyasi prospektlari"
+                        },
+                        {
+                            "link": "Jamiyatning biznes-rejalari"
+                        },
+                        {
+                            "link": "Ma'lumotlarni oshkor qilish",
+                            "inner_routes": [
+                                {
+                                    "inner_link": "Choraklik hisobotlar"
+                                },
+                                {
+                                    "inner_link": "Yil yakuni hisobotlari"
+                                },
+                                {
+                                    "inner_link": "Muhim faktlar"
+                                },
+                                {
+                                    "inner_link": "Umumiy yig'ilish va sanoq komissiyasi bayonnomalari"
+                                },
+                                {
+                                    "inner_link": "MCFO"
+                                },
+                                {
+                                    "inner_link": "Oxirgi uch yilda hisoblangan va to'langan"
+                                },
+                                {
+                                    "inner_link": "Asosiy ko'rsatkichlar"
+                                },
+                                {
+                                    "inner_link": "Sotib olingan aksiyalar"
+                                }
+                            ]
+                        },
+                        {
+                            "link": "Tashqi audit xizmati"
+                        },
+                        {
+                            "link": "Ichki audit xizmati",
+                            "inner_routes": [
+                                {
+                                    "inner_link": "Ichki audit xizmati xodimlari"
+                                },
+                                {
+                                    "inner_link": "Ichki audit xizmati xulosalari"
+                                }
+                            ]
+                        },
+                        {
+                            "link": "Taftish komissiyasi xulosalari"
+                        },
+                        {
+                            "link": "Aksiyadorlar uchun e'lonlar"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "main": "Ma'lumotlar va xizmatlar",
+                    "routes": [
+                        {
+                            "link": "Jamiyat tomonidan ishlab chiqariladigan mahsulotlar (turlari va qiymati (tariflar)"
+                        },
+                        {
+                            "link": "Bajariladigan ishlar va ko'rsatiladigan xizmatlar (turlari va qiymati (tariflar))"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "main": "Matbuot markazi",
+                    "routes": [
+                        {
+                            "link": "Yangiliklar"
+                        },
+                        {
+                            "link": "Tenderlar"
+                        },
+                        {
+                            "link": "Seminarlar"
+                        },
+                        {
+                            "link": "Matbuot-xizmati"
+                        },
+                        {
+                            "link": "Ommaviy tadbirlar"
+                        },
+                        {
+                            "link": "Rasmiy tashriflar"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "main": "Qayta aloqa bog'lash",
+                    "routes": [
+                        {
+                            "link": "Biz bilan bog'lanish"
+                        },
+                        {
+                            "link": "Yuridik va jismoniy shaxslarning murojaatlarini qabul qilish"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ru": [
+                {
+                    "id": 1,
+                    "main": "",
+                    "routes": [
+                        {
+                            "link": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "eng": [
+                
+            ]
+        }
+    ]
+}

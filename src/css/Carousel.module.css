@@ -1,0 +1,101 @@
+.carousel {
+  overflow: hidden;
+  position: relative;
+}
+
+.inner {
+  white-space: nowrap;
+  transition: transform 0.3s;
+}
+
+.carousel_item {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  background-color: #2B3A55;
+  color: #fff;
+  overflow: hidden;
+}
+.indicators {
+  display: flex;
+  justify-content: center;
+}
+
+.slideIt{
+  position: absolute;
+  top: 0;
+  padding: 0 10px;
+  height: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+  font-size: 40px;
+  border: none;
+  opacity: 0;
+  transition: 0.5s ease-in-out;
+  color: #fff;
+  background-color: transparent;
+  cursor: pointer;
+}
+.slideIt:nth-of-type(1){
+  left: 0;
+}
+.slideIt:nth-of-type(2){
+  right: 0;
+}
+
+.carousel_item img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  animation: shrink linear infinite;
+  animation-duration: 4s;
+}
+
+.carousel_item:hover img{
+  transform: scale(1) !important;
+  animation-play-state: paused;
+}
+
+@keyframes shrink {
+  100%{
+    transform: scale(1.1);
+  }
+}
+
+.carousel:hover .slideIt{
+  opacity: 1;
+}
+
+.pagination_item{
+  min-width: 15px;
+  min-height: 15px;
+  border-radius: 100%;
+  border: 2px solid #2B3A55;
+  transition: 0.5s ease-out;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.pagination_item.active{
+  background-color: #2B3A55;
+}
+
+@media (max-width:1024px){
+  .carousel_item{
+    height: 80vh !important;
+  }
+}
+
+@media (max-width:992px) {
+  .slideIt{
+    opacity: 1;
+  }
+}
+@media (max-width:768px) {
+  .carousel_item{
+    height: 50vh !important;
+  }
+}

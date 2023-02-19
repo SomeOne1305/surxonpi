@@ -1,0 +1,22 @@
+{
+    "poll": [
+        {
+            "id": 1,
+            "body": "Yoqdi :)",
+            "votes": 0
+        },
+        {
+            "id": 2,
+            "body": "Yoqmadi :(",
+            "votes": 0
+        },
+        {
+            "id": 3,
+            "body": "Chidasa boladi.",
+            "votes": 0
+        }
+    ],
+    "voted_users":[
+        
+    ]
+}
