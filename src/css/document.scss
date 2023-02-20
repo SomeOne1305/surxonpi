@@ -75,6 +75,36 @@ a {
           margin: 10px;
         }
       }
+      .youtube-video{
+        width: 100%;
+        height: auto;
+        .top-title{
+          width: 100%;
+          padding: 10px;
+          display: flex;
+          justify-content: space-between;
+          .fa-youtube{
+            color: red;
+            font-size: 22px;
+            display: flex;
+            align-items: center;
+          }
+          .fa-youtube::after{
+            content: 'Youtube';
+            font-size: 14px;
+            color: #000000;
+          }
+        }
+        iframe{
+          width: 640px;
+          height: 360px;
+          @media (max-width:641px) {
+            &{
+              width: 100% !important;
+            }
+          }
+        }    
+      }
     }
   }
 }

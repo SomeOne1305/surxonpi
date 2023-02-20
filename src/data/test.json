@@ -1,457 +1,523 @@
 {
-  "documents": {
-    "certificates": {
-      "title": "Sertifikat va litsenziyalar",
-      "files": [
-        {
-          "fileName": "Sertifikat",
-          "fileUrl": "/documents/1-about/certificates-licences/sertifikat-сертификат.jpg"
-        }
-      ]
-    },
-    "comp-pass": {
-      "title": "Korxona passporti",
-      "files": [
-        {
-          "fileName": "Korxona passporti",
-          "fileUrl": "/documents/1-about/comp-passport/презентация2018-2021y.pptx"
-        }
-      ]
-    },
-    "comp-progress": {
-      "title": "Jamiyat faoliyati",
-      "files": [
-        {
-          "fileName": "Jamiyat faoliyati",
-          "fileUrl": "/documents/1-about/comp-progress/jamiyat-faoliyati-жамият-фаолияти.pdf"
-        }
-      ]
-    },
-    "government": {
-      "title": "Rahbariyat",
-      "files": [
-        {
-          "fileName": "Rahbariyat",
-          "fileUrl": "/documents/1-about/government/rahbariyat.pdf"
-        }
-      ]
-    },
-    "history": {
-      "title": "Tarix",
-      "files": [
-        {
-          "fileName": "Tarix",
-          "fileUrl": "/documents/1-about/history/тарих.pdf"
-        },
-        {
-          "fileName": "Surxon PI AJ tarixi haqida video ssilkasi",
-          "fileUrl": "/documents/1-about/history/Surxon-PI-AJ-TARIXI-XAQIDA-VIDEO-SSILKASI-YUTUBDA.docx"
-        }
-      ]
-    },
-    "needed-documents": {
-      "title": "Me'yoriy hujjatlar",
-      "files": [
-        {
-          "fileName": "444-II 13.12.2002",
-          "fileUrl": "/documents/1-about/needed-documents/444-II-13.12.2002.doc"
-        },
-        {
-          "fileName": "O'RQ-370 06.05.2014",
-          "fileUrl": "/documents/1-about/needed-documents/O'RQ-370-06.05.2014.doc"
-        },
-        {
-          "fileName": "ПҚ-3107 30.06.2017",
-          "fileUrl": "/documents/1-about/needed-documents/ПҚ-3107-30.06.2017.doc"
-        },
-        {
-          "fileName": "ПФ-2598 28.04.2000.doc",
-          "fileUrl": "/documents/1-about/needed-documents/ПФ-2598-28.04.2000.doc"
-        },
-        {
-          "fileName": "TB bo'yicha qaror bosimda ishlash bo'yicha",
-          "fileUrl": "/documents/1-about/needed-documents/ТБ-буйича-карор-босимда-ишлаш-буйича.pdf"
-        },
-        {
-          "fileName": "Xavfli ishlab chiqarish obyektlarining sanoat xavfsizligi to'grisidagi O'ZBRES qonunini amalga oshirishga doir qo'shimcha chora tadbirlar haqida",
-          "fileUrl": "/documents/1-about/needed-documents/ХАВФЛИ-ИШЛАБ-ЧИҚАРИШ-ОБЪЕКТЛАРИНИНГ-САНОАТ-ХАВФСИЗЛИГИТЎҒРИСИДАГИ-ЎЗБРЕС-ҚОНУНИНИ-АМАЛГА-ОШИРИШГА-ДОИРҚЎШИМЧА-ЧОРА-ТАДБИРЛАР-ҲАҚИДА.pdf"
-        }
-      ]
-    },
-    "vacancies": {
-      "title": "Bo'sh ish o'rinlari",
-      "files": [
-        {
-          "fileName": "Vakant bo'sh ish o'rinlari",
-          "fileUrl": "/documents/1-about/vacancy/vacansies.pdf"
-        }
-      ]
-    },
-    "work-schedule": {
-      "title": "Ish grafigi",
-      "files": [
-        {
-          "fileName": "Ish grafigi",
-          "fileUrl": "/documents/1-about/work-schedule/Иш-графиги-ish-grafigi.pdf"
-        }
-      ]
-    },
-    "contacts": {
-      "title": "Aloqalar",
-      "files": [
-        {
-          "fileName": "Aloqalari kontakti",
-          "fileUrl": "/documents/2-services/1.алокалар/алокалар-kontakti.docx"
-        },
-        {
-          "fileName": "Aloqalari kontakti",
-          "fileUrl": "/documents/2-services/1.алокалар/алокалар-kontakti.pdf"
-        }
-      ]
-    },
-    "phone-numb": {
-      "title": "Ishonch telefonlari",
-      "files": [
-        {
-          "fileName": "Ishonch telefonlari",
-          "fileUrl": "/documents/2-services/2.Ишонч-телефонлари/Ишонч-телефонлари.pdf"
-        }
-      ]
-    },
-    "goods-in-trade": {
-      "title": "Sotuvdagi tovarlar",
-      "files": [
-        {
-          "fileName": "Sotuvdagi tovarlar",
-          "fileUrl": "/documents/3-manufacturing/good-in-trade/сотувдаги-товарлар.pdf"
-        }
-      ]
-    },
-    "main-indexes": {
-      "title": "Asosiy ko'rsatkichlar",
-      "files": [
-        {
-          "fileName": "",
-          "fileUrl": "/documents/3-manufacturing/main-indexes/асосий-кўрсаткичлар.pdf"
-        }
-      ]
-    },
-    "property-in-trade": {
-      "title": "Sotuvdagi mulklar",
-      "files": [
-        {
-          "fileName": "Sotuvdagi mulklar",
-          "fileUrl": "/documents/3-manufacturing/property-in-trade/сотувдаги-мулклар.pdf"
-        }
-      ]
-    },
-    "public-events": {
-      "title": "Ommaviy darslar",
-      "files": [
-        {
-          "fileName": "Ommaviy tadbirlar",
-          "fileUrl": "/documents/3-manufacturing/public-events/оммавий-тадбирлар.pdf"
-        }
-      ]
-    },
-    "technologic-progress": {
-      "title": "Texnologik jarayon",
-      "files": [
-        {
-          "fileName": "Foto uralmash 3D sxema",
-          "fileUrl": "/documents/3-manufacturing/technologiс-progress/фото-уралмаш-3д-схема.jpg"
-        }
-      ]
-    },
-    "tenders": {
-      "title": "Ochiq tanlovlar tenderlar va kim oshdi savdolari",
-      "files": [
-        {
-          "fileName": "Tender va kim oshdi savdolari",
-          "fileUrl": "/documents/3-manufacturing/tenders/тендер-ва-ким-ошди-савдолари.pdf"
-        }
-      ]
-    },
-    "executive-body":{
-      "title":"Ijroiya organi",
-      "files":[
-        {
-          "fileName":"Ijroiya organi",
-          "fileUrl":"/documents/korporativ-boshqaruv/1.Бошқарув,-коллегиал-ва-маслаҳат-органлари/Ижроия-органи/ижроия-органи.pdf"
-        }
-      ]
-    },
-    "internal-audit":{
-      "title":"Ichki audit xizmati",
-      "files":[
-        {
-          "fileName":"",
-          "fileUrl":"/documents/korporativ-boshqaruv/1.Бошқарув,-коллегиал-ва-маслаҳат-органлари/Ички-аудит-хизмати/ички-аудит.pdf"
-        }
-      ]
-    },
-    "supervisory-board":{
-      "title":"Kuzatuv kengashi",
-      "files":[
-        {
-          "fileName":"Kuzatuv kengashi",
-          "fileUrl":"/documents/korporativ-boshqaruv/1.Бошқарув,-коллегиал-ва-маслаҳат-органлари/Кузатув-Кенгаши/кузатув-кенгаши.pdf"
-        }
-      ]
-    },
-    "minority-shareholders-committee":{
-      "title":"Minoritar aksiyadorlar qo'mitasi",
-      "files":[
-        {
-          "fileName":"Minoritar aksiyadorlar qo'mitasi mavjud emas",
-          "fileUrl":"/documents/korporativ-boshqaruv/1.Бошқарув,-коллегиал-ва-маслаҳат-органлари/Миноритар-акциядорлар-қўмитаси/Миноритар-акциядорлар-қўмитаси-мавжуд-эмас.pdf"
-        }
-      ]
-    },
-    "audit-commission":{
-      "title":"Taftish komissiyasi",
-      "files":[
-        {
-          "fileName":"",
-          "fileUrl":"/documents/korporativ-boshqaruv/1.Бошқарув,-коллегиал-ва-маслаҳат-органлари/Тафтиш-комиссияси/тафтиш-комиссияси.pdf"
-        }
-      ]
-    },
-    "audit-report":{
-      "title":"Auditorlik xulosasi",
-      "files":[
-        {
-          "fileName":"Audit xulosasi 2019",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Аудиторлик-хулосаси/Аудит-хулосаси-2019.pdf"
-        },
-        {
-          "fileName":"Audit xulosasi 2020",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Аудиторлик-хулосаси/Аудит-хулосаси-2020.pdf"
-        },
-        {
-          "fileName":"Audit xulosasi 2021",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Аудиторлик-хулосаси/Аудит-хулосаси-2021.pdf"
-        }
-      ]
-    },
-    "list-of-affiliated-person":{
-      "title":"Afillangan shaxslar ro'yxati",
-      "files":[
-        {
-          "fileName":"Afillangan shaxslar",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Афилланган-шахслар-рўйхати/АФИЛЛАНГАН-ШАХСЛАР.pdf"
-        }
-      ]
-    },
-    "business-plan-of-the-society":{
-      "title":"Jamiyatning biznes rejasi",
-      "files":[
-        {
-          "fileName":"Biznes reja 2014",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2014.pdf"
-        },
-        {
-          "fileName":"Biznes reja 2015",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2015.pdf"
-        },
-        {
-          "fileName":"Biznes reja 2016",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2016.pdf"
-        },
-        {
-          "fileName":"Biznes reja 2017",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2017.pdf"
-        },
-        {
-          "fileName":"Biznes reja 2018",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2018.pdf"
-        },
-        {
-          "fileName":"Biznes reja 2019",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2019.pdf"
-        },
-        {
-          "fileName":"Biznes reja 2020",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2020.pdf"
-        },
-        {
-          "fileName":"Biznes reja 2021",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2021.pdf"
-        },
-        {
-          "fileName":"Biznes reja 2022",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-бизнес-режаси/бизнес-режа-2022.pdf"
-        }
-      ]
-    },
-    "development-strategy-of-society":{
-      "title":"Jamiyatning rivojlantirish strategiyasi",
-      "files":[
-        {
-          "fileName":"Rivojlanish strategiyasi",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Жамиятнинг-ривожлантириш-стратегияси/ривожланиш-стратегияси.pdf"
-        }
-      ]
-    },
-    "structure":{
-      "title":"Jamiyatning tashkiliy tuzilmasi struktura",
-      "files":[
-        {
-          "fileName":"Struktura 2019",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/жамиятнинг-ташкилий-тузилмаси-структура/struktura_2019-структура.jpg"
-        }
-      ]
-    },
-    "financial-statements":{
-      "title":"Moliyaviy hisobotlar",
-      "files":[
-        {
-          "fileName":"Bux-balans 2016",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2016.pdf"
-        },
-        {
-          "fileName":"Bux-balans 2017",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2017.pdf"
-        },
-        {
-          "fileName":"Bux-balans 2018",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2018.pdf"
-        },
-        {
-          "fileName":"Bux-balans 2019 1-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2019-й-1-кв.pdf"
-        },
-        {
-          "fileName":"Bux balans 2019 2-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2019-й-2-кв.pdf"
-        },
-        {
-          "fileName":"Bux balans 2019 3-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2019-й-3-кв.pdf"
-        },
-        {
-          "fileName":"Bux-balans 2020",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2020.pdf"
-        },
-        {
-          "fileName":"Bux balans 2020 3-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2021-й-3-кв.pdf"
-        },
-        {
-          "fileName":"Bux balans 2021",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2021.pdf"
-        },
-        {
-          "fileName":"Bux balans 2022 1-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2022-й-1-кв.pdf"
-        },
-        {
-          "fileName":"Bux balans 2022 2-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2022-й-2-кв.pdf"
-        },
-        {
-          "fileName":"Bux balans 2022 3-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/бух-баланс-2022-й-3-кв.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2013",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2013й.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2014",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2014й.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2015",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2015й.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2016",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2016й.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2017",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2017й.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2018 1-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2018-й-1-кв.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2018 3-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2018-й-3-кв.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2018",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2018й.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2019 1-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2019-й-1-кв.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2019 2-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2019-й-2-кв.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2019 3-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2019-й-3-кв.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2020",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2020й.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2021 3-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2021-й-3-кв.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2021",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2021й.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2022 1-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2022-й-1-кв.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2022 2-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2022-й-2-кв.pdf"
-        },
-        {
-          "fileName":"Moliyaviy natijalar 2022 3-kv",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Молиявий-ҳисоботлар/молиявий-натижалар-2022-й-3-кв.pdf"
-        }
-      ]
-    },
-    "important-facts":{
-      "title":"Muhim faktlar",
-      "files":[
-        {
-          "fileName":"6. Muhim fakt 25.12.2021",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Муҳим-фактлар/6-мухум-факт-25-12-2021й-даги.pdf"
-        },
-        {
-          "fileName":"8. Muhim fakt 25.12.2021 Kuzatuv kengashida mustaqil a'zo bo'yicha",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Муҳим-фактлар/8-мухум-факт-25-12-2021й-даги-Кузатув-кенгашида-Мустакил-аъзо-буйича.pdf"
-        },
-        {
-          "fileName":"8. Muhim fakt 25.12.2021 Taftish komissiya o'zgarishi",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Муҳим-фактлар/8-мухум-факт-25-12-2021й-даги-ТАФТИФ-комиссия-узгариш.pdf"
-        }
-      ]
-    },
-    "securities":{
-      "title":"Emissiya risolalari va qimmatli qog'ozlar chiqarish to'grisida",
-      "files":[
-        {
-          "fileName":"Aksiyalar yangi chiqarilish to'g'risida",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Эмиссия-рисолалари-ва-қимматли-қоғозлар-чиқариш-тўғрисидаги-қарорлар/АКЦИЯЛАР-ЯНГИ-ЧИҚАРИЛИШИ-ТЎҒРИСИДА-ҚАРОР.pdf"
-        },
-        {
-          "fileName":"Emissiya risolalari",
-          "fileUrl":"/documents/korporativ-boshqaruv/2.Ахборотни-ошкор-этиш/Эмиссия-рисолалари-ва-қимматли-қоғозлар-чиқариш-тўғрисидаги-қарорлар/Эмиссия-рисолалари.pdf"
-        }
-      ]
-    }
-  }
+  "uz_nav":[
+      {
+          "title":"Biz haqimizda",
+          "routes":[
+              {
+                  "route_title":"Tarix",
+                  "path":"/docs/history"
+              },
+              {
+                  "route_title":"Rahbariyat",
+                  "path":"/docs/management"
+              },
+              {
+                  "route_title":"Jamiyat faoliyati",
+                  "path":"/docs/community-activities"
+              },
+              {
+                  "route_title":"Me'yoriy hujjatlar",
+                  "path":"/docs/regulatory-documents"
+              },
+              {
+                  "route_title":"Sertifikat va litsenziyalar",
+                  "path":"/docs/certificates-and-licences"
+              },
+              {
+                  "route_title":"Bo'sh ish o'rinlari",
+                  "path":"/docs/vacancies"
+              },
+              {
+                  "route_title":"Ish grafigi",
+                  "path":"/docs/work-schedule"
+              },
+              {
+                  "route_title":"Korxona passporti",
+                  "path":"/docs/enterprise-passport"
+              }
+          ]
+      },
+      {
+          "title":"Ishlab chiqarish",
+          "routes":[
+              {
+                  "route_title":"Sotuvdagi tovarlar",
+                  "path":"/docs/goods-on-sale"
+              },
+              {
+                  "route_title":"Texnologik jarayon",
+                  "path":"/docs/technological-process"
+              },
+              {
+                  "route_title":"Sotuvdagi mulklar",
+                  "path":"/docs/properties-for-sale"
+              },
+              {
+                  "route_title":"Ommaviy tadbirlar",
+                  "path":"/docs/public-events"
+              },
+              {
+                  "route_title":"Ochiq tanlovlar tenderlar va kim oshdi savdolari",
+                  "path":"/docs/tenders-and-auctions"
+              },
+              {
+                  "route_title":"Asosiy ko'rsatkichlar",
+                  "path":"/docs/key-indicators"
+              }
+          ]
+      },
+      {
+          "title":"Korporativ boshqaruv",
+          "routes":[
+              {
+                  "route_title":"Boshqaruv, kollegial va maskalahat organlari",
+                  "inner_routes":[
+                      {
+                          "inner_title":"Kuzatuv kengashi",
+                          "path":"/docs/supervisory-board"
+                      },
+                      {
+                          "inner_title":"Taftish komissiyasi",
+                          "path":"/docs/inspection-commission"
+                      },
+                      {
+                          "inner_title":"Ijroiya organi",
+                          "path":"/docs/executive-body"
+                      },
+                      {
+                          "inner_title":"Ichki audit xizmati",
+                          "path":"/docs/internal-audit-service"
+                      },
+                      {
+                          "inner_title":"Minoritar aksiyadorlar qo'mitasi",
+                          "path":"/docs/minority-shareholders-committee"
+                      }
+                  ]
+              },
+              {
+                  "route_title":"Axborotni oshkor etish",
+                  "inner_routes":[
+                      {
+                          "inner_title":"Auditorlik xulosasi",
+                          "path":"/docs/audit-report"
+                      },
+                      {
+                          "inner_title":"Afillangan shaxslar ro'yxati",
+                          "path":"/docs/list-of-affiliates"
+                      },
+                      {
+                          "inner_title":"Jamiyatning biznes-rejasi",
+                          "path":"/docs/business-plan-of-the-society"
+                      },
+                      {
+                          "inner_title":"Jamiyatning rivojlantirish strategiyasi",
+                          "path":"/docs/community-development-strategy"
+                      },
+                      {
+                          "inner_title":"Jamiyatning tashkiliy tuzilmasi struktura",
+                          "path":"/docs/organizational-structure-of-society"
+                      },
+                      {
+                          "inner_title":"Moliyaviy hisobotlar",
+                          "path":"/docs/financial-statements"
+                      },
+                      {
+                          "inner_title":"Muhim faktlar",
+                          "path":"/docs/important-facts"
+                      },
+                      {
+                          "inner_title":"Emissiya risolalari va qimmatli qog'ozlar chiqarish to'g'risidagi qarorlar",
+                          "path":"/docs/prospectuses-and-decisions-on-the-issuance-of-securities"
+                      }
+                  ]
+              },
+              {
+                  "route_title":"Ichki hujjatlar",
+                  "inner_routes":[
+                      {
+                          "inner_title":"Aksiyadorlar umumiy yig'ilishi to'g'risidagi nizom",
+                          "path":"/docs/regulations-on-the-general-meeting-of-shareholders"
+                      },
+                      {
+                          "inner_title":"Axborot siyosati haqida nizom",
+                          "path":"/docs/regulation-on-information-policy"
+                      },
+                      {
+                          "inner_title":"Divident siyosati to'g'risidagi nizom",
+                          "path":"/docs/regulation-on-dividend-policy"
+                      },
+                      {
+                          "inner_title":"Jamiyat ustavi",
+                          "path":"/docs/the-charter-of-the-society"
+                      },
+                      {
+                          "inner_title":"Ijroiya organi tayinlanishi asoslari",
+                          "path":"/docs/grounds-for-the-appointment-of-the-executive-body"
+                      },
+                      {
+                          "inner_title":"Ijroiya organi to'g'risidagi nizom",
+                          "path":"/docs/regulation-on-the-executive-body"
+                      },
+                      {
+                          "inner_title":"Ichki audit xizmati to'grisidagi nizom",
+                          "path":"/docs/regulation-on-internal-audit-service"
+                      },
+                      {
+                          "inner_title":"Ichki nazorat to'g'risidagi nizom",
+                          "path":"/docs/regulation-on-internal-control"
+                      },
+                      {
+                          "inner_title":"Korporativ boshqaruv Kodeksi",
+                          "path":"/docs/corporate-governance-code"
+                      },
+                      {
+                          "inner_title":"Kuzatuv kengashi to'g'risidagi nizom",
+                          "path":"/docs/regulation-on-the-supervisory-board"
+                      },
+                      {
+                          "inner_title":"Manfaatlar qarama-qarshiligi vaqtida harakat qilish tartib to'g'risidagi nizom",
+                          "path":"/docs/regulation-on-the-procedure-for-acting-in-the-event-of-a-conflict-of-interest"
+                      },
+                      {
+                          "inner_title":"Taftish komissiyasi to'g'risidagi nizom",
+                          "path":"/docs/regulation-on-the-audit-commission"
+                      }
+                  ]
+              },
+              {
+                  "route_title":"Aksiyadorlarga",
+                  "inner_routes":[
+                      {
+                          "inner_title":"Dividendlar to'lovi haqida ma'lumot",
+                          "path":"/docs/information-on-the-payment-of-dividends"
+                      },
+                      {
+                          "inner_title":"Aksiyalarni xarid qilish",
+                          "path":"/docs/purchase-of-shares"
+                      }
+                  ]
+              },
+              {
+                  "route_title":"E'lonlar",
+                  "path":"/docs/announcements"
+              },
+              {
+                  "route_title":"Umumiy yig'ilish bayonlari",
+                  "path":"/docs/general-meeting-minutes"
+              }
+          ]
+      },
+      {
+          "title":"Interaktiv xizmatlar",
+          "routes":[
+              {
+                  "route_title":"Aloqalar",
+                  "path":"/docs/contacts"
+              },
+              {
+                  "route_title":"Ishonch telefonlari",
+                  "path":"/docs/hotlines"
+              },
+              {
+                  "route_title":"Ko'p beriladigan savollar",
+                  "path":"/"
+              },
+              {
+                  "route_title":"Fuqarolar murojaati",
+                  "path":"/"
+              }
+          ]
+      },
+      {
+          "title":"OAV xizmatlar",
+          "routes":[
+              {
+                  "route_title":"Yangiliklar",
+                  "path":"/"
+              },
+              {
+                  "route_title":"Press-Relizlar",
+                  "path":"/docs/press-releases"
+              },
+              {
+                  "route_title":"Yangiliklar arxivi",
+                  "path":"/"
+              },
+              {
+                  "route_title":"Mediakutubxona",
+                  "inner_routes":[
+                      {
+                          "inner_title":"Fotogalareya",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Videomateriallar",
+                          "path":"/"
+                      }
+                  ]
+              },
+              {
+                  "route_title":"OAV biz haqimizda",
+                  "path":"/docs/media-about-us"
+              }
+          ]
+      }
+  ],
+  "ru_nav":[
+      {
+          "title":"О нас",
+          "routes":[
+              {
+                  "route_title":"История",
+                  "path":"/docs/history"
+              },
+              {
+                  "route_title":"Руководсто",
+                  "path":"/docs/management"
+              },
+              {
+                  "route_title":"Деятельность общества",
+                  "path":"/docs/community-activities"
+              },
+              {
+                  "route_title":"Нормативные документы",
+                  "path":"/docs/regulatory-documents"
+              },
+              {
+                  "route_title":"Сертификаты и лицензии",
+                  "path":"/docs/certificates-and-licences"
+              },
+              {
+                  "route_title":"Вакансии",
+                  "path":"/docs/vacancies"
+              },
+              {
+                  "route_title":"График работы",
+                  "path":"/docs/work-schedule"
+              },
+              {
+                  "route_title":"Пасропт АО",
+                  "path":"/docs/enterprise-passport"
+              }
+          ]
+      },
+      {
+          "title":"Производство",
+          "routes":[
+              {
+                  "route_title":"Товары и продаже",
+                  "path":"/"
+              },
+              {
+                  "route_title":"Технологические процесс",
+                  "path":"/docs/technological-process"
+              },
+              {
+                  "route_title":"Имушество в продаже",
+                  "path":"/"
+              },
+              {
+                  "route_title":"Массовые мероприятия",
+                  "path":"/"
+              },
+              {
+                  "route_title":"Открытые конкурсы, тендеры и торги",
+                  "path":"/docs/tenders-and-auctions"
+              },
+              {
+                  "route_title":"Динамика показателей",
+                  "path":"/"
+              }
+          ]
+      },
+      {
+          "title":"Корпоративное управление",
+          "routes":[
+              {
+                  "route_title":"Органы управления",
+                  "path":"",
+                  "inner_routes":[
+                      {
+                          "inner_title":"Наблюдательный Совет",
+                          "path":"/docs/supervisory-board"
+                      },
+                      {
+                          "inner_title":"Ревизионная комиссия",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Исполнительный орган",
+                          "path":"/docs/executive-body"
+                      },
+                      {
+                          "inner_title":"Служба внутренного аудита",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Комитет миноритарных акционеров",
+                          "path":"/"
+                      }
+                  ]
+              },
+              {
+                  "route_title":"Раскрытые информации",
+                  "inner_routes":[
+                      {
+                          "inner_title":"Существенные факты",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Финансовые отчеты",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Бизнес план общества",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Проспекты эмиссии и решения о выпуске ценных бумаг",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Список аффилированных лиц",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Структура акционерного общества",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Аудиторские заключения",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Стратегия развития общества",
+                          "path":"/"
+                      }
+                  ]
+              },
+              {
+                  "route_title":"Внутренные документы общества",
+                  "inner_routes":[
+                      {
+                          "inner_title":"Устав общества",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Кодекс корпоративного управления",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Положение об информационной политике",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Положение о  внутреннем контроле",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Положение о дивендной политике",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Положение о порядке  действий при конфликте интересов",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Положение об общем собрании акционеров",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Положение о Наблюдательном совете",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Положение о ревизионной комиссии (ревизоре)",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Положение об исполнительном органе",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Положение о службе внутренного аудита",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Порядок конкурсного отбора исполнительного органа",
+                          "path":"/"
+                      }
+                  ]
+              },
+              {
+                  "route_title":"Акционерам",
+                  "inner_routes":[
+                      {
+                          "inner_title":"Информация о выплате дивидендов",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Приобретение акций",
+                          "path":"/"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "title":"Интерактивного услуги",
+          "routes":[
+              {
+                  "route_title":"Контакты",
+                  "path":"/"
+              },
+              {
+                  "route_title":"Телефон доверия",
+                  "path":"/"
+              },
+              {
+                  "route_title":"Часто задаваемые вопросы",
+                  "path":"/"
+              },
+              {
+                  "route_title":"Обращение граждан",
+                  "path":"/"
+              }
+          ]
+      },
+      {
+          "title":"Пресс-служба",
+          "routes":[
+              {
+                  "route_title":"Новости",
+                  "path":"/"
+              },
+              {
+                  "route_title":"Пресс-релизы",
+                  "path":"/"
+              },
+              {
+                  "route_title":"Архив новостей",
+                  "path":"/"
+              },
+              {
+                  "route_title":"Медиатека",
+                  "inner_routes":[
+                      {
+                          "inner_title":"Фотогалерея",
+                          "path":"/"
+                      },
+                      {
+                          "inner_title":"Видео",
+                          "path":"/"
+                      }
+                  ]
+              },
+              {
+                  "route_title":"СМИ о нас",
+                  "path":"/"
+              }
+          ]
+      }
+  ]
 }
